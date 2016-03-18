@@ -1,0 +1,47 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,600);
+
+* {
+  border-radius: 0px !important;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif !important;
+  background-color: #FFFFFF;
+}
+
+.quote {
+  margin-top: 70px;
+  margin-bottom: 20px;
+  background-color: #00B16A;
+  padding: 20px;
+  color: #EEEEEE;
+}
+
+.btn-default {
+  background-color: #ECECEC !important;
+  color: #22313F !important;
+  text-transform: uppercase;
+}
+
+#tweet {
+  color: #4090FF !important;
+}
+
+.btn-default:hover {
+  background-color: #BDC3C7 !important;
+}
+
+.copy {
+  color: #494949;
+  font-weight: 300;
+}
+
+#author {
+  color: #F2F1EF;
+  font-weight: 300;
+  font-style: italic;
+}
+
+p.quote {
+  font-weight: 600;
+}
