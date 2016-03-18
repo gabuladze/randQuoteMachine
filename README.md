@@ -5,7 +5,7 @@ This is a small random famous quote generator. It uses the [Andruxnet random fam
 
 To make the thing work put your key in js/script.js as shown below:
 
-'''
+```javascript
 ...
 // This function fetches a new random quote from the specified api and
 // updates the page
@@ -17,4 +17,4 @@ function updateQuote() {
       'Content-Type': 'application/x-www-form-urlencoded',
     },
 ...
-'''
+```
